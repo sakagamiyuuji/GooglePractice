@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Google Practice</string>
+    <string name="send">SEND</string>
+    <string name="reply">REPLY</string>
+    <string name="activity2_name">LAYOUT KE 2</string>
+    <string name="message_received">Message Received</string>
+    <string name="edt_msg">ENTER YOUR MESSAGE HERE</string>
+    <string name="reply_msg">ENTER YOU REPLY HERE</string>
+</resources>
